@@ -2,7 +2,7 @@
 
 I'm a career changer currently training to become a software developer (Fachinformatiker Anwendungsentwicklung), based in Munich, Germany. I´m mainly working and have experience with Java atm. You can find examples of my code in my public repositories.
 
-## 💻 Tech Skills atm:
+## 💻 Tech Skills (practical experience with):
 - **Languages**: Java, Python
 - **Databases**: MySQL
 - **Tools**: Git

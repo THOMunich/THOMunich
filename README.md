@@ -5,5 +5,5 @@
 - **Databases**: MySQL
 - **Tools**: Git
 
-## 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dein-username&show_icons=true&theme=radical)
+- ## 📈 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=THOMunich&show_icons=true&theme=radical)
